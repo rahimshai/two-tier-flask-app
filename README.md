@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # Flask App with MySQL Docker Setup
 
@@ -128,3 +129,6 @@ docker run -d \
 
 ```
 
+=======
+# two-tier-flask-app
+>>>>>>> origin/main
